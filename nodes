@@ -8,6 +8,7 @@ fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c pad.meshwith.me
 fc1b:978e:d2be:dd1a:87f3:98f7:78e1:7871 fvz-rec-jp-tk-01 fvz-rec-jp-tk-01.h.dnsrec.meo.ws
 fc1e:af9f:b436:7aa0:5bce:dfc:cba:c713   thefinn93.hype
 fc22:14d2:c859:631e:6964:a17e:e33f:157a fvz-rec-nz-auk-01 fvz-rec-nz-auk-01.h.dnsrec.meo.ws
+fc23:d923:44f1:d9b2:e588:8a0:a822:bb24 fvz-rec-pl-mz-01 fvz-rec-pl-mz-01.h.dnsrec.meo.ws
 fc27:2caf:22ed:6ab8:18af:bab8:a1fb:758e h.diasp.ca
 fc29:e214:49c2:b083:43d:b733:351a:4d59 fvz-rec-im-dgl-01 fvz-rec-im-dgl-01.h.dnsrec.meo.ws
 fc2a:89a2:f636:5aa2:9c84:4648:6118:eb19 fvz-rec-de-dus-01 fvz-rec-de-dus-01.h.dnsrec.meo.ws
@@ -35,6 +36,7 @@ fc5e:1bc7:c31c:993b:a784:cb7b:bf97:e2d3 fvz-rec-us-fl-01 fvz-rec-us-fl-01.h.dnsr
 fc5f:c567:102:c14e:326e:5035:d7e5:9f78  h.meshnet.pl
 fc65:4ce6:910f:a463:d595:ab5c:8878:2186 fvz-rec-at-vie-01 fvz-rec-at-vie-01.h.dnsrec.meo.ws
 fc67:9816:2ccc:c4c2:f76c:1d09:a7a5:044e amsterdam.larsg.hype
+fc68:d76c:ee8b:88c4:a994:286c:2126:fb35 fvz-rec-za-wc-01 fvz-rec-za-wc-01.h.dnsrec.meo.ws
 fc69:d383:2136:5888:d854:208b:bd55:fe30 fvz-rec-be-vwv-01 fvz-rec-be-vwv-01.h.dnsrec.meo.ws
 fc6a:30c9:53a1:2c6b:ccbf:1261:2aef:45d3 transitiontech.ca/public
 fc6c:71cd:5686:a02f:d27c:d84e:e941:3252 atommixz.hype
@@ -43,9 +45,9 @@ fc6e:9c71:5c46:5c72:c768:1d74:8887:c3d fvz-rec-sg-ea-01 fvz-rec-sg-ea-01.h.dnsre
 fc73:7d5:bf14:85b9:e009:ef6:9be8:e2bc fvz-rec-us-wa-01 fvz-rec-us-wa-01.h.dnsrec.meo.ws
 fc75:a699:c091:62a7:bae3:b1d8:1385:f55c ru.spb.atommixz.hype
 fc7d:ab19:d6f3:c721:afff:49bc:8749:3890 ru.msk-hx.hype
+fc7e:f26f:4e28:f5c3:5d79:149d:51f5:7c2d fvz-rec-ro-bu-01 fvz-rec-ro-bu-01.h.dnsrec.meo.ws
 fc80:2426:bdb4:4000:4161:30d4:5d14:2e71 fvz-rec-nl-fl-01 fvz-rec-nl-fl-01.h.dnsrec.meo.ws
 fc87:f729:c42b:8a74:9e05:916f:7b80:6df4 UnexpectedConsequence.astriaporta.space h.astriaporta.space
-fc88:d634:4a9d:9fc:2a1c:e661:21fb:abfd fvz-rec-ru-mow-01 fvz-rec-ru-mow-01.h.dnsrec.meo.ws
 fc88:d634:4a9d:9fc:2a1c:e661:21fb:abfd fvz-rec-ru-mow-01 fvz-rec-ru-mow-01.h.dnsrec.meo.ws
 fc89:d20e:99db:7374:9efc:a0b7:3c19:d3db siberian-cat.hype
 fc8a:14e1:c4ab:23c6:9383:47fe:d68a:6931 fvz-rec-gb-eng-01 fvz-rec-gb-eng-01.h.dnsrec.meo.ws
@@ -59,21 +61,25 @@ fc99:fb16:ae93:c9cd:6b20:280a:c643:849b network.luggs.co
 fc9d:2ef7:3fb4:70e1:847c:d810:d5e3:fe21 irc.hypeirc.net
 fc9e:203b:f917:9265:5528:1248:289:281f fvz-rec-au-wa-01 fvz-rec-au-wa-01.h.dnsrec.meo.ws
 fca1:b8fe:4b3c:b53f:13f0:5fb5:a909:2f7 fvz-rec-us-ca-02 fvz-rec-us-ca-02.h.dnsrec.meo.ws
+fca1:e01e:ee8c:5387:bf08:1a9:c695:8596 fvz-rec-il-ta-01 fvz-rec-il-ta-01.h.dnsrec.meo.ws
 fca3:1fcc:decf:d738:85a8:99c8:a4f2:4a6f dwinn.hype
 fca3:e846:d35a:b8ec:16ea:8dc5:2378:23f fvz-rec-au-vic-01 fvz-rec-au-vic-01.h.dnsrec.meo.ws
 fca6:64b3:611:eacb:58fc:5a22:6103:b45b fvz-rec-us-tx-02 fvz-rec-us-tx-02.h.dnsrec.meo.ws
 fca6:d7bd:f58d:5324:b012:89c0:6b61:cdee fvz-rec-us-ca-01 fvz-rec-us-ca-01.h.dnsrec.meo.ws
 fca8:2dd7:4987:a9be:c8fc:34d7:5a1:4606  irc.hypeirc.net
 fca8:7de6:7540:86ae:e441:cc7e:b212:9447 fvz-rec-fr-sxb-01 fvz-rec-fr-sxb-01.h.dnsrec.meo.ws
+fca8:f8fc:8e5f:8c06:5354:60fb:fa73:8966 fvz-rec-es-md-01 fvz-rec-es-md-01.h.dnsrec.meo.ws
 fcaf:d0c4:73af:623a:4a4d:95f4:7dab:6516 fvz-rec-nl-nh-01 fvz-rec-nl-nh-01.h.dnsrec.meo.ws
 fcb3:f:9f8a:332c:92c6:ce84:c581:5c1c    ru.spb.shnatsel.hype
 fcbb:98bd:d44f:40dc:426c:4971:b6b1:7bd6 ams.smash-net.org
 fcbb:ecc7:c97b:78f:dd78:7a0c:3c0c:46be fvz-rec-us-tx-01 fvz-rec-us-tx-01.h.dnsrec.meo.ws
 fcbf:7bbc:32e4:716:bd00:e936:c927:fc14  appno.de irc.appno.de irc.hypeirc.net
 fcc0:c0b2:2a14:7afc:5216:1854:1a2f:2c13 hype.smash-net.org hypecloud.smash-net.org smash-net.org
+fcc1:1c05:ced1:a1c7:5820:fa7e:95cd:9f69 fvz-rec-fr-sbg-01 fvz-rec-fr-sbg-01.h.dnsrec.meo.ws
 fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype
 fcc6:700e:1577:b2df:20cc:3ece:24ff:3fa7 h.seattlemesh.net h.pad.meshwith.me
 fcc7:1f86:f366:dacd:d5ea:cfc4:8921:1bbc fvz-rec-us-ga-01 fvz-rec-us-ga-01.h.dnsrec.meo.ws
+fcc8:1772:e027:a41f:3171:a27f:bf3b:f288 fvz-rec-de-fra-02 fvz-rec-de-fra-02.h.dnsrec.meo.ws
 fcc8:dc3e:087c:e807:f4f2:b3c5:a978:996a sing.smash-net.org
 fccb:a83:7716:b926:a226:46cc:92df:b6ef fvz-rec-ca-on-01 fvz-rec-ca-on-01.h.dnsrec.meo.ws
 fccb:c308:4b13:fc55:cd:1dba:963e:d3b5   h.nl-hx.com
@@ -87,9 +93,11 @@ fce3:f7bd:dfc4:1da6:a141:132:221d:4bdb  hype.librecmc.com
 fce6:bb0f:1729:a6cc:2cbc:3129:3d15:52b4 fvz-rec-hu-bu-01 fvz-rec-hu-bu-01.h.dnsrec.meo.ws
 fcec:ae97:8902:d810:6c92:ec67:efb2:3ec5 socialno.de urlcloud.net irc.hypeirc.net
 fced:be:335d:a24:fa94:914d:1fed:fd09    mapper.zielmicha.com
+fced:f97f:358b:80d5:7168:7af8:99b5:d5b0 fvz-rec-gr-ath-01 fvz-rec-gr-ath-01.h.dnsrec.meo.ws
 fcf1:4069:e3c4:6e66:9460:b92b:b156:cb9f us.tx.dallas.coyo.hype
 fcf2:ff45:a10:2ca1:fb5c:426d:3505:4f18  h.fleshless.org irc.dryware.org irc.hypeirc.net h.zfh.so
 fcf4:e309:14b5:5498:cafd:4f59:4b9c:7f84 h.vps.cjdns.ca irc.hypeirc.net
 fcf5:894b:a246:fa31:f395:6e8d:31b6:f9f9 h.nup.pw
+fcfa:be9c:c50d:391e:299b:ed37:4207:d72f fvz-rec-it-mi-01 fvz-rec-it-mi-01.h.dnsrec.meo.ws
 fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
 fcff:9613:6f0c:43f9:a8a9:5c8c:1f09:7729 fvz-rec-is-hf-01 fvz-rec-is-hf-01.h.dnsrec.meo.ws
