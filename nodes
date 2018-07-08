@@ -127,6 +127,7 @@ fc6d:2b11:4680:1c9a:5f05:8cea:4332:5e1c fvz-rec-ch-zrh-01 fvz-rec-ch-zrh-01.h.dn
 fc6d:c723:8c35:4f98:f1f8:7a12:ed05:61f3 fvz-rec-au-nsw-01 fvz-rec-au-nsw-01.h.dnsrec.meo.ws
 fc6e:691e:dfaa:b992:a10a:7b49:5a1a:5e09 peer2.h.e-mesh.net
 fc6e:9c71:5c46:5c72:c768:1d74:8887:c3d fvz-rec-sg-ea-01 fvz-rec-sg-ea-01.h.dnsrec.meo.ws
+fc70:4105:4cb2:c974:bf64:170f:04b1:ade5 h.bunjlabs.com
 fc72:2d6b:172f:f22b:f9f7:0bad:20e4:003f node0.vanmesh.net
 fc72:c065:f915:838e:f158:2242:a871:c719 h.darkcloud.ca
 fc72:d5d:a6a5:6de4:d855:926f:6660:9e9f dev.qgqv.tk
@@ -149,7 +150,6 @@ fc7e:f26f:4e28:f5c3:5d79:149d:51f5:7c2d fvz-rec-ro-bu-01 fvz-rec-ro-bu-01.h.dnsr
 fc7f:3d04:419f:e9b0:526f:fc6a:576:cba0 h.amadeu.berlinmesh.net
 fc80:2426:bdb4:4000:4161:30d4:5d14:2e71 fvz-rec-nl-fl-01 fvz-rec-nl-fl-01.h.dnsrec.meo.ws
 fc80:48cd:c97e:ec5f:b148:52bb:5d53:7d3e thonk1.rx14.co.uk
-fc8a:086e:215f:1840:cb07:1f32:a0cc:9986 h.zhuk.cupivan.ru
 fc82:7654:9d6a:e23f:fca6:59f5:79e8:50f0 eastusa.transatlantic.h-ic.eu
 fc82:a1ac:75ca:4dfc:81dc:a9fc:7656:f762 h.vpnd.leipzig.freifunk.net
 fc85:6a8f:4f57:833a:fe3f:748e:ef85:d62  lance.networkdigital.net
@@ -160,6 +160,7 @@ fc87:f729:c42b:8a74:9e05:916f:7b80:6df4 UnexpectedConsequence.astriaporta.space 
 fc88:22b7:2274:bd9a:8ae8:9d73:e797:eb60 chen.cjdns.link
 fc88:c649:1d80:e13f:4206:4b3e:e1e3:bc37 h.vs1.kubuxu.ovh
 fc89:d20e:99db:7374:9efc:a0b7:3c19:d3db siberian-cat.hype
+fc8a:086e:215f:1840:cb07:1f32:a0cc:9986 h.zhuk.cupivan.ru
 fc8a:14e1:c4ab:23c6:9383:47fe:d68a:6931 fvz-rec-gb-eng-01 fvz-rec-gb-eng-01.h.dnsrec.meo.ws
 fc8a:3456:7788:9665:fcfe:4681:cb09:8b77 h.nn.cupivan.ru
 fc8a:79d5:4cc0:377c:9ae6:df2b:564f:09cc dangranos.hype sigrun.ru.barnaul.dangranos.hype
@@ -219,6 +220,7 @@ fcc4:5d7a:75cc:6014:fcd1:4a76:9894:f42d westusa.transatlantic.h-ic.eu
 fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype
 fcc6:700e:1577:b2df:20cc:3ece:24ff:3fa7 h.seattlemesh.net h.pad.meshwith.me
 fcc7:1f86:f366:dacd:d5ea:cfc4:8921:1bbc fvz-rec-us-ga-01 fvz-rec-us-ga-01.h.dnsrec.meo.ws
+fcc7:ddb7:a086:f9dd:bb4a:2019:62f0:3877 node01.msk.ru-mesh.net
 fcc8:1772:e027:a41f:3171:a27f:bf3b:f288 fvz-rec-de-fra-02 fvz-rec-de-fra-02.h.dnsrec.meo.ws
 fcc8:a424:e3b1:0f41:d4cf:6c75:97de:9b40 h.traed.cwningen.cymru
 fccb:a83:7716:b926:a226:46cc:92df:b6ef fvz-rec-ca-on-01 fvz-rec-ca-on-01.h.dnsrec.meo.ws
@@ -245,6 +247,7 @@ fcdb:caba:db15:3fab:433f:fe88:1a57:cef3 nyc.cjdns.drsn0w.net
 fcdc:52f9:38d6:3aeb:1331:d2b3:3eba:32d4 meanmail.ru
 fcdc:71fe:e8c2:f3ba:ca93:80f4:3d97:2096 edgerouter.nat.h-ic.eu
 fcdc:e168:e089:f053:b02c:738e:817d:2308 h.lithium.socialcoders.org
+fcdd:e56a:7db6:d854:8fa1:844c:5458:1329 h.hyperboria.hackeriet.no
 fcde:4208:dead:face:9f23:a48a:0239:4d47 akarin.cjdns.link
 fcde:a8ab:1ba5:a45a:6d48:1fbb:5131:f2db h.nana.s.imvry.pw
 fcdf:30c6:06ac:8186:edd1:e016:cd47:8100 h.iovoid.xyz
@@ -270,8 +273,6 @@ fcf4:e309:14b5:5498:cafd:4f59:4b9c:7f84 h.vps.cjdns.ca irc.hypeirc.net
 fcf5:894b:a246:fa31:f395:6e8d:31b6:f9f9 h.nup.pw
 fcf6:b259:3437:7641:cd74:7604:ffb7:d978 h.yakamo.org
 fcfa:be9c:c50d:391e:299b:ed37:4207:d72f fvz-rec-it-mi-01 fvz-rec-it-mi-01.h.dnsrec.meo.ws
-fc70:4105:4cb2:c974:bf64:170f:04b1:ade5 h.bunjlabs.com
-fcc7:ddb7:a086:f9dd:bb4a:2019:62f0:3877 node01.msk.ru-mesh.net
 fcfc:5d70:99b6:4e0c:cba6:61ec:434b:df1a h.julian.meshwith.me
 fcfc:b6aa:665:755e:4772:2a54:9277:3ab5 h.fa3.us
 fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
